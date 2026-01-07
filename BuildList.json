@@ -1,1 +1,22 @@
-
+[
+{
+  "name": "Adventures",
+  "version": "1.21.10",
+  "loader": "fabric",
+  "version_loader": "0.18.4",
+  "version_last": "5",
+  "status": "release",
+  "description": "Сборка на приключения",
+  "detals": "Новые биомы\nпрокаченный визуал\nОптимизация\nКрасочный мир"
+},
+{
+  "name": "AdventuresContinue",
+  "version": "1.21.1",
+  "loader": "fabric",
+  "version_loader": "0.18.4",
+  "version_last": "2",
+  "status": "release",
+  "description": "Форк сборки Adventures",
+  "detals": "Новые биомы\nПрокаченный визуал\nОптимизация\nКрасочный мир\nНовое оружие\nУсложненные мобы\nСистема прогрессии мобов"
+}
+]
