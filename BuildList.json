@@ -30,7 +30,7 @@
     "status": "release",
     "description": "Сборка созданная для популяризации сервера между моими друзьями и просто поддержки сервера!",
     "detals": "Лайтматика\nШейдеры\nОптимизация\nМиникарта",
-    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/tag/FriendMine/",
+    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/FriendMine/",
     "server": "friendsmine.mcmod.ru"
   }
 ]
