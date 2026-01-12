@@ -20,5 +20,17 @@
   "description": "Форк сборки Adventures",
   "detals": "Новые биомы\nПрокаченный визуал\nОптимизация\nКрасочный мир\nНовое оружие\nУсложненные мобы\nСистема прогрессии мобов",
   "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/AdventuresContinue/"
-}
+},
+  {
+    "name": "FriendMine",
+    "version: "1.21.11",
+    "loader": "fabric",
+    "version_loader": "0.18.4",
+    "version_last": "1",
+    "status": "release",
+    "description": "Сборка созданная для популяризации сервера между моими друзьями и просто поддержки сервера!",
+    "detals": "Лайтматика\nШейдеры\nОптимизация\nМиникарта",
+    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/tag/FriendMine",
+    "server": "friendsmine.mcmod.ru"
+  }
 ]
