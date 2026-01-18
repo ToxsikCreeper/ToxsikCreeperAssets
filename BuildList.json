@@ -32,5 +32,16 @@
     "detals": "Лайтматика\nШейдеры\nОптимизация\nМиникарта",
     "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/FriendMine/",
     "server": "213.152.43.14:25711"
+  },
+  {
+    "name": "FriendMineNeoForge",
+    "version": "1.21.1",
+    "loader": "neoforge",
+    "version_loader": "21.1.218",
+    "version_last": "1",
+    "status": "release",
+    "description": "Сборка FriendMine Но только на NeoForge поддерживающая игру на сервере!",
+    "detals": "Пока неизвестно",
+    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/FriendMineNeoForge/"
   }
 ]
