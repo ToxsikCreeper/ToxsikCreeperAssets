@@ -22,18 +22,6 @@
   "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/AdventuresContinue/"
 },
   {
-    "name": "FriendMine",
-    "version": "1.21.11",
-    "loader": "fabric",
-    "version_loader": "0.18.4",
-    "version_last": "2",
-    "status": "release",
-    "description": "Сборка созданная для популяризации сервера между моими друзьями и просто поддержки сервера!",
-    "detals": "Лайтматика\nШейдеры\nОптимизация\nМиникарта",
-    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/FriendMine/",
-    "server": "213.152.43.14:25711"
-  },
-  {
     "name": "FriendMineNeoForge",
     "version": "1.21.1",
     "loader": "neoforge",
