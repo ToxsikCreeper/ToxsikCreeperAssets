@@ -1,7 +1,7 @@
 [
 {
   "name": "Adventures",
-  "version": "1.21.11",
+  "version": "1.21.11",https://github.com/ToxsikCreeper/ToxsikCreeperAssets/blob/main/BuildList.json
   "loader": "fabric",
   "version_loader": "0.18.4",
   "version_last": "7",
@@ -16,7 +16,7 @@
   "loader": "fabric",
   "version_loader": "0.18.4",
   "version_last": "0",
-  "status": "release",
+  "status": "No",
   "desciption": "Ванильная сборка на визуальную состовляющую.",
   "detals": "Пока не известны",
   "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/VisualliCraft/"
