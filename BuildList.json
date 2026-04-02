@@ -17,8 +17,19 @@
   "version_loader": "0.18.4",
   "version_last": "0",
   "status": "No",
-  "desription": "Ванильная сборка на визуальную состовляющую.",
+  "description": "Ванильная сборка на визуальную состовляющую.",
   "detals": "Пока не известны",
   "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/VisualliCraft/"
-}
+},
+  {
+    "name": "DragonSlayer",
+    "version": "1.21.1",
+    "loader": "fabric",
+    "version_loader": "0.18.4",
+    "version_last": "0",
+    "status": "no",
+    "description": "Погрузитесь в мир драконов!",
+    "detals": "Будут известны позже!",
+    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/DragonSlayer/"
+  }
 ]
