@@ -31,5 +31,17 @@
     "description": "Погрузитесь в мир драконов!",
     "detals": "Будут известны позже!",
     "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/DragonSlayer/"
+  },
+  {
+    "name": "MaxFPS",
+    "version": "1.21.11",
+    "loader": "fabric",
+    "version_loader": "1.18.4",
+    "version_last": "0",
+    "status": "release",
+    "description" :"Полностью ванильная сборка направленная на fps",
+    "detals": "* Огромная производительность\n* Большой ФПС\n* Полная ванила\n* Поддержка шейдеров\n* Гибкая настройка модов на оптимизацию.\n\n (у меня в ней 1050 фпс)"
+    "url" :"https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/MaxFPS/"
   }
+  
 ]
