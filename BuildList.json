@@ -36,7 +36,7 @@
   "name": "MaxFPS",
   "version": "1.21.11",
   "loader": "fabric",
-  "version_loader": "1.18.4",
+  "version_loader": "0.18.4",
   "version_last": "0",
   "status": "release",
   "description" :"Полностью ванильная сборка направленная на fps",
