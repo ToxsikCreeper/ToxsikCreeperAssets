@@ -22,15 +22,15 @@
   "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/VisualliCraft/"
 },
   {
-    "name": "DragonSlayer",
+    "name": "DragonHunter",
     "version": "1.21.1",
     "loader": "fabric",
     "version_loader": "0.18.4",
     "version_last": "0",
-    "status": "release",
-    "description": "Погрузитесь в мир драконов!",
-    "detals": "Будут известны позже!",
-    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/DragonSlayer/"
+    "status": "non",
+    "description": "Погрузитесь в мир полным опасностей и сложностей.",
+    "detals": "* Хорошая оптимизация\n* Общирное количество предметов\* Много направлений и возможностей\n* Кастомные квесты",
+    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/DragonHunter/"
   },
   {
   "name": "MaxFPS",
