@@ -1,46 +1,15 @@
 [
 {
-  "name": "Adventures",
-  "version": "1.21.11",
-  "loader": "fabric",
-  "version_loader": "0.18.4",
-  "version_last": "7",
-  "status": "release",
-  "description": "Сборка на приключения",
-  "detals": "Новые биомы\nпрокаченный визуал\nОптимизация\nКрасочный мир",
-  "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/Adventures/"
-},
-{
-  "name": "VisualliCraft",
-  "version": "1.21.11",
-  "loader": "fabric",
-  "version_loader": "0.18.4",
+  "name:": "Reap_TxEdition",
+  "version": "1.21.1",
+  "loader": "neoforge",
+  "version_loader": "21.1.265",
   "version_last": "0",
-  "status": "No",
-  "description": "Ванильная сборка на визуальную состовляющую.",
-  "detals": "Пока не известны",
-  "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/VisualliCraft/"
-},
-  {
-    "name": "DragonHunter",
-    "version": "1.21.1",
-    "loader": "fabric",
-    "version_loader": "0.18.4",
-    "version_last": "0",
-    "status": "non",
-    "description": "Погрузитесь в мир полным опасностей и сложностей.",
-    "detals": "* Хорошая оптимизация\n* Общирное количество предметов\* Много направлений и возможностей\n* Кастомные квесты",
-    "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/DragonHunter/"
-  },
-  {
-  "name": "MaxFPS",
-  "version": "1.21.11",
-  "loader": "fabric",
-  "version_loader": "0.18.4",
-  "version_last": "0",
-  "status": "release",
-  "description" :"Полностью ванильная сборка направленная на fps",
-  "detals": "* Огромная производительность\n* Большой ФПС\n* Полная ванила\n* Поддержка шейдеров\n* Гибкая настройка модов на оптимизацию.\n\n (у меня в ней 1050 фпс)",
-  "url" :"https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/MaxFPS/"
+  "status": "non",
+  "description": "Сборка доработки Reap.",
+  "detals": "Пока не объявлены",
+  "url": "https://github.com/ToxsikCreeper/ToxsikCreeperAssets/releases/download/Reap_TxEdition/",
+  "ico": "https://raw.githubusercontent.com/ToxsikCreeper/ToxsikCreeperAssets/main/ico/Reap_TxEdition/ico.png",
+  "bacs": "https://raw.githubusercontent.com/ToxsikCreeper/ToxsikCreeperAssets/main/ico/Reap_TxEdition/bacs.png"
 }
 ]
